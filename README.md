@@ -1,4 +1,4 @@
-# Mexico
+# México
 
 ESP:
 En este respositorio se encuentra:
