@@ -1,0 +1,19 @@
+# Mexico
+
+ESP:
+En este respositorio se encuentra:
+- Guia con los pasos para la configuración e instalación de las modificaciones necesarias para operar con facturas en el formato MX
+- Código para operar con los documentos
+- Plantilla de identificación y maestra
+- StyleSheet para ver los documentos
+
+Última fecha de revisión 26/11/25
+
+ENG:
+In this repository you will find:
+- A guide with the steps for configuring and installing the necessary modifications to operate with invoices in the MX format
+- Code for document operations
+- Identification and master template
+- StyleSheet for document viewing
+
+Last review date: 26/11/25
