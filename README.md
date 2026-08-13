@@ -7,7 +7,7 @@ En este respositorio se encuentra un zip con:
 - Plantilla de identificación y maestra
 - StyleSheet para ver los documentos
 
-Última fecha de revisión 26/11/25
+Última fecha de revisión 13/08/26
 
 ENG:
 In this repository you will find a zip with:
@@ -16,4 +16,4 @@ In this repository you will find a zip with:
 - Identification and master template
 - StyleSheet for document viewing
 
-Last review date: 26/11/25
+Last review date: 13/08/26
